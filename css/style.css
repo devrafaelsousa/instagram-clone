@@ -53,8 +53,8 @@ body {
     align-items: center;
     flex-direction: column;
     background-color: #fff;
-    width: 80%;
-    padding: 1rem 0;
+    width: 60%;
+    padding: 3.4vh 0;
     border: 1px solid lightgrey;
 }
 
@@ -146,7 +146,7 @@ body {
     }
 
     .instagram-wrapper {
-        width: 90%;
+        width: 100%;
     }
 
     .instagram-phone {
@@ -158,6 +158,6 @@ body {
     }
 
     .group {
-        border: 1px solid tr;
+        border: 1px solid #e1d1d1;
     }
 }
